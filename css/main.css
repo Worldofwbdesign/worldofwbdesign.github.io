@@ -22,21 +22,6 @@ body input:required:valid,
 body textarea:required:valid {
   color: #666; }
 
-.main-head {
-  position: relative;
-  min-height: 400px;
-  background: url(../img/top_bg.jpg) no-repeat center;
-  background-size: cover;
-  text-align: center;
-  padding-top: 115px; }
-
-h1 {
-  color: #fff;
-  font-size: 3.125em;
-  letter-spacing: 2px;
-  margin: 0;
-  font-family: "RobotoLight", sans-serif; }
-
 .s_portfolio {
   position: relative;
   min-height: 400px;
@@ -54,6 +39,7 @@ h1 {
   .s_portfolio h2 {
     font-family: "RobotoLight", sans-serif;
     color: #fff;
+    margin-bottom: 50px;
     text-transform: uppercase;
     font-size: 30px; }
   .s_portfolio .portfolio {
@@ -2644,7 +2630,7 @@ h1 {
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp; }
 
-/* 
+/*
  *  Owl Carousel - Animate Plugin
  */
 .owl-carousel .animated {
@@ -2675,14 +2661,14 @@ h1 {
   100% {
     opacity: 0; } }
 
-/* 
+/*
  * 	Owl Carousel - Auto Height Plugin
  */
 .owl-height {
   -webkit-transition: height 500ms ease-in-out;
   transition: height 500ms ease-in-out; }
 
-/* 
+/*
  *  Core Owl Carousel CSS File
  */
 .owl-carousel {
@@ -2775,7 +2761,7 @@ h1 {
 .no-js .owl-carousel {
   display: block; }
 
-/* 
+/*
  * 	Owl Carousel - Lazy Load Plugin
  */
 .owl-carousel .owl-item .owl-lazy {
@@ -2787,7 +2773,7 @@ h1 {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d; }
 
-/* 
+/*
  * 	Owl Carousel - Video Plugin
  */
 .owl-carousel .owl-video-wrapper {
