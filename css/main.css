@@ -28,12 +28,13 @@ body textarea:required:valid {
   background: url(../img/top_bg.jpg) no-repeat center;
   background-size: cover;
   text-align: center;
-  padding-top: 100px; }
+  padding-top: 115px; }
 
 h1 {
   color: #fff;
   font-size: 3.125em;
   letter-spacing: 2px;
+  margin: 0;
   font-family: "RobotoLight", sans-serif; }
 
 .s_portfolio {
