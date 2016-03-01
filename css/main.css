@@ -154,9 +154,13 @@ body textarea:required:valid {
   display: inline-block;
   width: 15px;
   height: 15px;
-  background-color: tomato;
+  background-color: #363948;
   border-radius: 10em;
   margin-right: 4px;
+}
+
+.owl-carousel .owl-controls .owl-dot.active {
+  background-color: #tomato;
 }
 
 /*==========  Desktop First Method  ==========*/
