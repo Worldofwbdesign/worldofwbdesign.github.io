@@ -148,13 +148,13 @@ body textarea:required:valid {
     text-decoration: none; }
 .s_portfolio .owl-carousel .owl-controls .owl-dots {
   display: inline-block;
-  height: 10px;
+  height: 13px;
   margin-top: 20px;
 }
 .owl-carousel .owl-controls .owl-dot {
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 13px;
+  height: 13px;
   background-color: #363948;
   border-radius: 10em;
   margin-right: 6px;
