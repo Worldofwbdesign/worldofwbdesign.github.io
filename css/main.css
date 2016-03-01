@@ -146,7 +146,7 @@ body textarea:required:valid {
     color: #fff;
     background-color: tomato;
     text-decoration: none; }
-.owl-dots {
+.s_portfolio .owl-carousel .owl-controls .owl-dots {
   display: inline-block;
   height: 15px;
 }
