@@ -104,6 +104,9 @@ body textarea:required:valid {
         .s_portfolio .portfolio .port-item .port-descr h3 {
           color: #fff;
           padding: 50px 20% 0; }
+        .s_portfolio .portfolio .port-item .port-descr p {
+          color: #ccc;
+          padding: 0 20%; }
     .s_portfolio .portfolio .owl-nav div {
       top: 30%;
       position: absolute;
