@@ -149,6 +149,7 @@ body textarea:required:valid {
 .s_portfolio .owl-carousel .owl-controls .owl-dots {
   display: inline-block;
   height: 15px;
+  margin-top: 20px;
 }
 .owl-carousel .owl-controls .owl-dot {
   display: inline-block;
@@ -156,11 +157,18 @@ body textarea:required:valid {
   height: 15px;
   background-color: #363948;
   border-radius: 10em;
-  margin-right: 4px;
+  margin-right: 6px;
+  -webkit-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.owl-carousel .owl-controls .owl-dot:hover{
+  background-color: tomato;
 }
 
 .owl-carousel .owl-controls .owl-dot.active {
-  background-color: #tomato;
+  background-color: tomato;
 }
 
 /*==========  Desktop First Method  ==========*/
