@@ -148,12 +148,14 @@ body textarea:required:valid {
     text-decoration: none; }
 .owl-dots {
   height: 15px;
+  position: absolute;
 }
 .owl-carousel .owl-controls .owl-dot {
   display: inline-block;
   width: 15px;
   height: 15px;
   background-color: tomato;
+  border-radius: 10em;
 }
 
 /*==========  Desktop First Method  ==========*/
