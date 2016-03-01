@@ -4,6 +4,7 @@ $(function() {
 		items: 1,
 		loop: true,
 		autoplay: true,
+		autoplayHoverPause: true,
 		nav: true,
 		navText: false
 	});
