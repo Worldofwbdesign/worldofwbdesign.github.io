@@ -38,6 +38,7 @@ body textarea:required:valid {
     background-image: url(../img/bah_2.png); }
   .s_portfolio h2 {
     font-family: "RobotoLight", sans-serif;
+    font-weight: normal;
     color: #fff;
     margin-bottom: 70px;
     text-transform: uppercase;
