@@ -149,7 +149,6 @@ body textarea:required:valid {
 .owl-dots {
   display: block;
   height: 15px;
-  position: absolute;
 }
 .owl-carousel .owl-controls .owl-dot {
   display: inline-block;
