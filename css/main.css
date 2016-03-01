@@ -125,9 +125,9 @@ body textarea:required:valid {
 .button {
   display: inline-block;
   padding: 5px 25px;
-  color: tomato;
+  color: #9c1718;
   background-color: transparent;
-  border: 2px solid tomato;
+  border: 2px solid #9c1718;
   text-transform: uppercase;
   font-size: 14px;
   text-decoration: none;
@@ -140,11 +140,11 @@ body textarea:required:valid {
   border-radius: 3px; }
   .button:hover {
     color: #fff;
-    background-color: tomato;
+    background-color: #9c1718;
     text-decoration: none; }
   .button:active, .button:focus {
     color: #fff;
-    background-color: tomato;
+    background-color: #9c1718;
     text-decoration: none; }
 .s_portfolio .owl-carousel .owl-controls .owl-dots {
   display: inline-block;
@@ -158,17 +158,17 @@ body textarea:required:valid {
   background-color: #363948;
   border-radius: 10em;
   margin-right: 6px;
-  -webkit-transition: all .5s ease;
-  -o-transition: all .5s ease;
-  transition: all .5s ease;
+  -webkit-transition: all .25s ease;
+  -o-transition: all .25s ease;
+  transition: all .25s ease;
 }
 
 .owl-carousel .owl-controls .owl-dot:hover{
-  background-color: tomato;
+  background-color: #9c1718;
 }
 
 .owl-carousel .owl-controls .owl-dot.active {
-  background-color: tomato;
+  background-color: #9c1718;
 }
 
 /*==========  Desktop First Method  ==========*/
