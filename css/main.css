@@ -145,6 +145,12 @@ body textarea:required:valid {
     color: #fff;
     background-color: tomato;
     text-decoration: none; }
+.owl-dot {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: tomato;
+}
 
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
