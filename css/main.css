@@ -147,6 +147,7 @@ body textarea:required:valid {
     background-color: tomato;
     text-decoration: none; }
 .owl-dots {
+  display: block;
   height: 15px;
   position: absolute;
 }
