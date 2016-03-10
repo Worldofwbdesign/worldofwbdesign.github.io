@@ -35,7 +35,7 @@ body textarea:required:valid {
   position: relative;
   min-height: 400px;
   background-color: #1C1F2E;
-  padding: 60px 0;
+  padding: 60px 0 100px;
   text-align: center; }
   .s_portfolio::before {
     position: absolute;
